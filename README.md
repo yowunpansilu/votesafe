@@ -44,7 +44,7 @@ A **decentralized voting platform** for university clubs, events, or organizatio
 
 ---
 
-## 📁 Full Project File Structure
+""## 📁 Full Project File Structure
 
 wallet-less-voting/
 │
@@ -71,7 +71,7 @@ wallet-less-voting/
 ├── README.md                   # This file
 └── .gitignore
 
----
+---""
 
 ## 🚀 Roadmap / Step-by-Step Implementation
 

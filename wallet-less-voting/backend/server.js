@@ -2,7 +2,7 @@
 
 require('dotenv').config();
 const express = require('express');
-const { ethers } = require('ethers');
+const ethers = require('ethers');
 
 // Initialize express app
 const app = express();
